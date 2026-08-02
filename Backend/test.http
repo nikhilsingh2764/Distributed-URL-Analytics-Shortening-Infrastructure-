@@ -1,0 +1,10 @@
+### Signup
+
+POST http://localhost:8000/api/v1/signup
+Content-Type: application/json
+
+{
+  "username": "nikhil",
+  "email": "nikhilsinghdfg@gmail.com",
+  "password": "Password@123"
+}
